@@ -21,5 +21,9 @@ streamlit run app.py
 - app.py – Streamlit UI
 - requirements.txt – dependencies
 
+## Future Work
+- TF-IDF, posters via TMDB API, fuzzy search, hybrid with popularity.
 
+## License
+MIT
 
