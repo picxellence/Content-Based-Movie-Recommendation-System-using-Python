@@ -8,3 +8,7 @@ tmdb_5000_credits.csv
 
 # Ignore other system files
 __pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
