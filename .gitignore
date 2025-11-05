@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+.venv/
+
+# Ignore dataset files
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+
+# Ignore other system files
+__pycache__/
